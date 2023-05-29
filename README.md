@@ -22,5 +22,5 @@
 
 <h3>⚡️ About Me ⚡️</h3><br/>
 <p>
-I am a Senior Full Stack developer with extensive experience in the layout, design, and coding of front-end and back-end applications specifically in PHP, and JavaScript. I have considerable knowledge of the development of web applications and scripts using PHP, Laravel, React, and Vue.js frameworks and MySQL & SQL Server databases.
+I am a Senior Full Stack developer with 7+ years of experience in front-end and back-end applications development in PHP, and JavaScript. I have considerable knowledge of the development of web applications and scripts using PHP, Laravel, React, and Vue.js frameworks and MySQL & SQL Server databases.
 </p>
