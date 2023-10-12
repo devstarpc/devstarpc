@@ -1,3 +1,8 @@
+<h2 align="center">Aaron Pierson - Full Stack Developer</h2>
+<p>
+I am a Senior Full Stack developer with 7+ years of experience in front-end and back-end applications development in PHP, and JavaScript. I have considerable knowledge of the development of web applications and scripts using PHP, Laravel, React, and Vue.js frameworks and MySQL & SQL Server databases
+</p>
+
 <p>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -18,9 +23,4 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   </p>
-</p>
-
-<h3>⚡️ About Me ⚡️</h3><br/>
-<p>
-I am a Senior Full Stack developer with 7+ years of experience in front-end and back-end applications development in PHP, and JavaScript. I have considerable knowledge of the development of web applications and scripts using PHP, Laravel, React, and Vue.js frameworks and MySQL & SQL Server databases.
 </p>
